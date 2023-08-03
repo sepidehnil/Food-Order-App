@@ -1,0 +1,36 @@
+.allItems {
+  max-height: 20rem;
+  overflow-y: scroll;
+}
+.total {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.btns {
+  display: flex;
+  gap: 15px;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+button {
+  padding: 10px 40px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  border: 1px solid rgb(163, 41, 41);
+  border-radius: 20px;
+  cursor: pointer;
+}
+.btn1 {
+  color: rgb(163, 41, 41);
+  background-color: transparent;
+}
+.btn2 {
+  background-color: rgb(163, 41, 41);
+  color: white;
+}
+.btn1:hover {
+  background-color: rgb(163, 41, 41);
+  color: white;
+}

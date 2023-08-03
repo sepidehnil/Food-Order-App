@@ -1,0 +1,14 @@
+.summary-cont {
+  width: 40%;
+  background-color: rgb(54, 54, 54);
+  padding: 30px 30px;
+  margin: auto;
+  margin-top: -90px;
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 1.1rem;
+  border-radius: 12px;
+}

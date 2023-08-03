@@ -1,0 +1,12 @@
+.meals-input {
+  width: 45px;
+  margin-left: 15px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  outline: none;
+  padding: 5px 5px;
+}
+.meals-amount {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
