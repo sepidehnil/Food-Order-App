@@ -38,3 +38,12 @@
   margin: 10px;
   border-bottom: 2px solid rgb(171, 171, 171);
 }
+.meals-loading {
+  color: white;
+  font-weight: 600;
+  text-align: center;
+}
+.MealsError {
+  text-align: center;
+  color: red;
+}
